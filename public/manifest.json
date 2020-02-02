@@ -1,8 +1,8 @@
 {
   "name": "Mapa de Mistérios do Recife",
   "short_name": "Mapa de Mistérios",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "theme_color": "#eff0f3",
+  "background_color": "#eff0f3",
   "display": "standalone",
   "Scope": "/",
   "start_url": "/",
