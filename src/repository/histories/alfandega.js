@@ -1,4 +1,4 @@
-const img1 = 'https://lh3.googleusercontent.com/proxy/we2rYPIaYE3psrO8AI1TD-7ioDs238yL3AVaW6FcRxlpLiGQSSTk71fO1Xtk1WFRySNODSar8hM5V-iheAXuwXNYv_sABXsLtoyw1A_pPpd3TriDcvu7gQ6SQQ_H'
+const img1 = 'http://acaopopular.net/jornal/wp-content/uploads/2018/01/recife-antigo8.jpg'
 const img2 = 'https://turismo.ibossa.com.br/wp-content/uploads/2013/10/Largo-da-Alfandega.jpg'
 const img3 = 'https://2.bp.blogspot.com/-TMTuedPggLM/UuOwDnyjjxI/AAAAAAAAAdY/l1ZQHvs_2Hw/s1600/Alfandega+1906.jpg'
 const img4 = 'https://photos.wikimapia.org/p/00/00/65/59/88_big.jpg'

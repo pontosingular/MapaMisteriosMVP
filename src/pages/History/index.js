@@ -37,7 +37,6 @@ export default function History (props) {
   const { type } = currentHistory
 
   const notifyHandler = (event) => {
-    console.log(event)
     if (event.isNextSlideDisabled) {
       toast((<Msg><Icon type='estandarteEncarnado' color='#2CB67D' /><e>Parabéns!</e>Você desvendou o {currentHistory.name}</Msg>), {
         position: "top-center",

@@ -27,7 +27,7 @@ export default function TabMenu ({ inventario, explorar, perfil, }) {
         />
         <span>Explorar</span>
       </NavItem>
-      <NavItem active={perfil} to='/perfil'>
+      <NavItem active={perfil} to=''>
         <AiOutlineUser
           size="28"
           color={ perfil ? colors.primary : colors.greyText }
