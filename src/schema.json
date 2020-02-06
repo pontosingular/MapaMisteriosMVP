@@ -1,0 +1,46 @@
+{
+"user": {​
+  "loading": false,​
+  "discovered": []
+},
+"uiControl": {
+  "resumeModal": {
+    "open": false,
+    "content": {
+      "name": "",
+      "type": "",
+      "discoveredCount": 0,
+      "cover": "img"
+
+    }
+  }
+},
+"histories": {
+    "id": {
+      "coords": {"lat": "", "lng": ""},
+      "name": "",
+      "discovered_count": 0,
+      "type": "",
+      "cover": "img",
+      "chapters": [
+        {
+          "img": "",
+          "text": "",
+          "action": {
+            "type": "",
+            "expected": ""
+          },
+          "item": {
+
+          }
+        }
+      ] 
+
+    },
+  "outroId": {
+    ...
+  }
+}
+
+
+

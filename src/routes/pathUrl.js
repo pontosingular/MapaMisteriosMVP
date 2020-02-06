@@ -1,14 +1,26 @@
 import HomePage from '../pages/Home'
+import InventarioPage from '../pages/Invetario'
+import HistoryPage from '../pages/History'
 
 const pathUrl = [{
   path: '/',
-  component: HomePage
+  component: HomePage,
+  name: 'Explorar'
 },
 {
-  path: '/bag'
+  path: '/inventario',
+  component: InventarioPage,
+  name: 'Inventário'
 },
 {
-  path: '/user'
-}]
+  path: '/user',
+  name: 'Perfil'
+},
+{
+  path: '/history/:id',
+  component: HistoryPage
+}
+
+]
 
 export default pathUrl

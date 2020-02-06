@@ -1,8 +1,12 @@
 import React from 'react'
-import MapTest from '../../components/MapTest'
+
+import Map from '../../components/MapTest'
+import MainTemplate from '../../components/templates/MainTemplate'
 
 export default function Home () {
   return (
-    <MapTest />
+    <MainTemplate current='explorar'>
+      <Map />
+    </MainTemplate>
   )
 }

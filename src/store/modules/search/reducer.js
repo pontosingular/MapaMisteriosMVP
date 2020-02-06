@@ -9,6 +9,7 @@ import {
 } from './constants'
 
 export const initialState = {
+  id: '',
   input: '',
   loading: false,
   error: null,

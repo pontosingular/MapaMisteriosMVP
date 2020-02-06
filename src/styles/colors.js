@@ -6,5 +6,8 @@ export const colors = {
   paragraph: '#2A2A2A',
   headline: '#0D0D0D',
   greyText: '#7F7F7F',
-  gold: '#FAAE2B'
+  gold: '#FAAE2B',
+  blue: '#3DA9FC',
+  red: '#E45858',
+  purple: '#9656A1'
 }

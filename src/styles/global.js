@@ -1,7 +1,10 @@
 import { createGlobalStyle } from 'styled-components'
+import { colors } from './colors'
 
 export default createGlobalStyle`
   @import url('https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=ABeeZee&display=swap');
+  @import "react-alice-carousel/lib/alice-carousel.css";
 
   * {
     margin: 0;
@@ -11,6 +14,7 @@ export default createGlobalStyle`
   }
 
   body {
+    background-color: ${colors.background};
     margin: 0;
     padding: 0;
     -webkit-font-smoothing: antialiased;
